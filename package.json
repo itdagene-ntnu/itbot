@@ -3,7 +3,12 @@
   "version": "0.0.1",
   "private": false,
   "author": "Peder Smith <smith.peder@gmail.com>",
+  "license": "MIT",
   "description": "A simple slack bot for itdagene slack channel",
+  "repository": {
+    "type": "git",
+    "url": "github.com/itdagene-ntnu/itbot"
+  },
   "dependencies": {
     "hubot": "^3.1.1",
     "hubot-diagnostics": "^1.0.0",
