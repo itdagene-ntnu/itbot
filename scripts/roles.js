@@ -1,9 +1,5 @@
 // Description:
-//  Mention different groups based on users roles
-// Commands
-//  @<role> ... - Make itbot mention all users with that role
-//  @<role> some text @<another role> ... - Make itbot mention multiple roles
-//  itbot roles ... - itbot tells you all roles in the current system
+// Mention different groups based on users roles
 
 const _ = require("lodash");
 
@@ -24,7 +20,7 @@ module.exports = robot => {
     msg.send(`${mentions}`);
   });
 
-  robot.respond(/roles/i, msg => {
+  robot.hear(/@roles/i, msg => {
     const roles = Object.keys(
       members
         .map(member => member.role)

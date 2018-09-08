@@ -1,7 +1,5 @@
 // Description:
-//  Mention different groups based on users roles
-// Commands
-//  @noen ... - itbot will mention a random user
+// Mention different groups based on users roles
 
 const _ = require("lodash");
 
