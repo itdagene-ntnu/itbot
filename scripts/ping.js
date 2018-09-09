@@ -3,6 +3,6 @@
 
 module.exports = robot => {
   robot.respond(/ping/i, msg => {
-    msg.reply(`pong2`);
+    msg.reply(`pong3`);
   });
 };
