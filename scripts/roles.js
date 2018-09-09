@@ -1,8 +1,6 @@
 // Description:
 // Mention different groups based on users roles
 
-const _ = require("lodash");
-
 const members = require("../lib/members");
 
 const createMention = username => `<@${username}>`;

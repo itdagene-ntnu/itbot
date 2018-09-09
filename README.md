@@ -28,8 +28,6 @@ Add all users, with associated roles and slack id to `lib/members.json`, using t
 
 `HUBOT_SLACK_TOKEN` API token from slack hubot integration
 
-
-
 ### Deploy
 
 ```
@@ -44,24 +42,12 @@ All supported scripts are located in `scripts/`
 
 - `@<role>` located in `roles.js`
 
+- `@<role> some text @<another role>` located in `roles.js` 
+
 - `itbot roles` located in `roles.js`
 
+- `@all` located in `all.js`
 
+- `@ping` located in `ping.js`
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- `itbot help` located in `help.js`
