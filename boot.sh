@@ -1,13 +1,15 @@
 # Get HUBOT token
 source env.sh
 
-git pull
+git fetch
+git reset --hard origin/master
 ./bin/hubot --adapter slack &
 
 while true
 do
-  if [ -z "$(git pull | grep "Already up-to-date")" ];
+  if [ ! -z "$(git fetch)" ];
   then
+    git reset --hard origin/master
     sudo systemctl restart hubot
   fi
   sleep 10
