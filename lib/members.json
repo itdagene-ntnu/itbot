@@ -2,96 +2,115 @@
   {
     "name": "Peder Smith",
     "slack": "UCNV117Q8",
+    "email": "peder.smith@itdagene.no",
 		"role": "web"
   },
   {
     "name": "Hedda Mathilde Langvik",
     "slack": "UCNKQDRCZ",
+    "email": "hedda.langvik@itdagene.no",
     "role": "leder"
   },
   {
     "name": "Nicklas I. Paus Bekkevold",
     "slack": "UCQMYNXB9",
+    "email": "nicklas.bekkevold@itdagene.no",
     "role": "nestleder"
   },
   {
     "name": "Lars-Magnus Underhaug",
     "slack": "UCP5149CZ",
+    "email": "lars.underhaug@itdagene.no",
     "role": "økans"
   },
   {
     "name": "Frida Solheim",
     "slack": "UCPF0GZ2Q",
+    "email": "frida.solheim@itdagene.no",
     "role": "bedrift"
   },
   {
     "name": "Irina Gundersen",
     "slack": "UCP425XL1",
+    "email": "irina.gundersen@itdagene.no",
     "role": "marked"
   },
   {
     "name": "Magnus Schjølberg",
     "slack": "UCPHN03L3",
+    "email": "magnus.schjolberg@itdagene.no",
     "role": "web"
   },
   {
     "name": "Hedda Ulve",
-    "slack": "ukjent",
+    "slack": "UCPC1LK1P",
+    "email": "hedda.ulve@itdagene.no",
     "role": "logistikk"
   },
   {
     "name": "Jenny Yu",
     "slack": "UCNUWHV5W",
+    "email": "jenny.yu@itdagene.no",
     "role": "bankett"
   },
   {
     "name": "Kim André Midtlid",
     "slack": "UCR3E14JJ",
+    "email": "kim.midtlid@itdagene.no",
     "role": "marked"
   },
   {
     "name": "Tilde Thorvik",
-    "slack": "ukjent",
+    "slack": "UCQ4J9PJ8",
+    "email": "tilde.thorvik@itdagene.no",
     "role": "logistikk"
   },
   {
     "name": "Nhu Luong",
-    "slack": "ukjent",
+    "slack": "UCPUXRN4S",
+    "email": "nhu.luong@itdagene.no",
     "role": "bankett"
   },
   {
     "name": "Henrik Forbord",
     "slack": "UCPF4397W",
+    "email": "henrik.forbord@itdagene.no",
     "role": "bedrift"
   },
   {
     "name": "Victor Jørgensen",
     "slack": "UCPHBG1HR",
+    "email": "victor.jorgensen@itdagene.no",
     "role": "bedrift"
   },
   {
     "name": "Hanne Olssen",
     "slack": "UCQNH6BKR",
+    "email": "hanne.olssen@itdagene.no",
     "role": "bedrift"
   },
   {
     "name": "Erling Weijer",
-    "slack": "ukjent",
+    "slack": "UCPUS0NAW",
+    "email": "erling.weijer@itdagene.no",
     "role": "bedrift"
   },
   {
     "name": "Jenny Almestad",
     "slack": "UCR1CG48N",
+    "email": "jenny.almestad@itdagene.no",
     "role": "bedrift"
   },
   {
     "name": "Wictor Zhao",
     "slack": "UCPHBJG03",
+    "email": "wictor.zhao@itdagene.no",
     "role": "bedrift"
   },
   {
-    "name": "William Østesen",
+    "name": "William Østensen",
     "slack": "UCPH5CBKM",
+    "email": "william.ostensen@itdagene.no",
     "role": "bedrift"
   }
 ]
